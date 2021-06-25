@@ -1,0 +1,14 @@
+for backend--------------
+1- pip install django
+2- pip install djangorestframework
+3- pip install django-cors-headers
+4- pip install crypto
+5- pip install django_email_verification
+6- pip install pillow
+7- paytm_gateway
+
+
+frontend=======
+1- npm install axios
+2- npm install vuetify
+3- npm install router
